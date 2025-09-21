@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj": {}
+    "E:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj": {}
   },
   "projects": {
-    "e:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj": {
+    "E:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj",
+        "projectUniqueName": "E:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj",
         "projectName": "NeighborHood",
-        "projectPath": "e:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj",
+        "projectPath": "E:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\NeighborHood.csproj",
         "packagesPath": "C:\\Users\\SAMSUNG\\.nuget\\packages\\",
-        "outputPath": "e:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\obj\\",
+        "outputPath": "E:\\Github\\Neighborhood\\NeighborHood\\NeighborHood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAMSUNG\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,7 +46,11 @@
           "dependencies": {
             "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[4.35.0, )"
+              "version": "[4.15.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[119.0.6045.10500, )"
             }
           },
           "imports": [
